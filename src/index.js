@@ -3,5 +3,3 @@ document.addEventListener("DOMContentLoaded", function(event) {
     element.innerHTML = "Hello World"
     document.body.appendChild(element)
   })
-
-  console.log("juz");
